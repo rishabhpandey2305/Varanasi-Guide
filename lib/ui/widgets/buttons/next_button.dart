@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:varanasi_guide/ui/theme/colors/app_color.dart';
-import 'package:varanasi_guide/ui/theme/icons/app_icon.dart';
+import 'package:varanasi_guide/theme/colors/app_color.dart';
+import 'package:varanasi_guide/theme/icons/app_icon.dart';
 
 class NextButton extends StatelessWidget {
   final VoidCallback onNext;

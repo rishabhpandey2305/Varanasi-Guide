@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:varanasi_guide/ui/home_page.dart';
-import 'package:varanasi_guide/ui/theme/app_theme.dart';
+import 'package:varanasi_guide/theme/app_theme.dart';
 
 class Varanasi extends StatelessWidget {
   const Varanasi({super.key});
