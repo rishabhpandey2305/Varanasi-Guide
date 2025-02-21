@@ -10,6 +10,7 @@ class ImageSlider extends StatelessWidget {
     double screenHeight = MediaQuery.of(context).size.height;
     double screenWidth = MediaQuery.of(context).size.width;
     return PageView.builder(
+      controller: pageController,
       itemBuilder: (context, index) {
         return Image.network(
           AppConstants.images[index],

@@ -2,14 +2,21 @@ import 'package:flutter/widgets.dart';
 import 'package:varanasi_guide/core/constants/app_constants.dart';
 import 'package:varanasi_guide/core/utils/image_helper.dart';
 
+
 class HomePageController {
-  final PageController pageController = PageController(initialPage: 0);
+late PageController pageController;
+  HomePageController() {
+    pageController = PageController();
+  }
+
   void goToNextPage() {
-    if (pageController.page! < AppConstants.images.length - 1) {
-      pageController.nextPage(
-        duration: Duration(milliseconds: 800),
-        curve: Curves.easeInOut,
-      );
+    if (pageController.hasClients && pageController.page != null) {
+      if (pageController.page! < AppConstants.images.length - 1) {
+        pageController.nextPage(
+          duration: Duration(milliseconds: 800),
+          curve: Curves.easeInOut,
+        );
+      }
     }
   }
 
@@ -19,5 +26,11 @@ class HomePageController {
 
   void dispose() {
     pageController.dispose();
+  }
+
+  bool isLastPage() {
+    return (pageController.hasClients && pageController.page != null)
+        ? pageController.page!.round() == AppConstants.images.length - 1
+        : false;
   }
 }

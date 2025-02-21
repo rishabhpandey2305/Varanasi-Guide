@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:varanasi_guide/ui/home_page.dart';
+import 'package:varanasi_guide/core/constants/routes.dart';
 import 'package:varanasi_guide/theme/app_theme.dart';
 
 class Varanasi extends StatelessWidget {
@@ -8,8 +8,9 @@ class Varanasi extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: HomePage(),
       theme: appTheme,
+      initialRoute: '/',
+      routes: AppRoutes.getRoutes(),
       debugShowCheckedModeBanner: false,
     );
   }
