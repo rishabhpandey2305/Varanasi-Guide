@@ -11,6 +11,7 @@ class Varanasi extends StatelessWidget {
       theme: appTheme,
       initialRoute: '/',
       routes: AppRoutes.getRoutes(),
+      onGenerateRoute: AppRoutes.onGenerateRoute,
       debugShowCheckedModeBanner: false,
     );
   }

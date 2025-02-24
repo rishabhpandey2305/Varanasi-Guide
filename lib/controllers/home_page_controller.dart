@@ -2,9 +2,8 @@ import 'package:flutter/widgets.dart';
 import 'package:varanasi_guide/core/constants/app_constants.dart';
 import 'package:varanasi_guide/core/utils/image_helper.dart';
 
-
 class HomePageController {
-late PageController pageController;
+  late PageController pageController;
   HomePageController() {
     pageController = PageController();
   }
@@ -13,7 +12,7 @@ late PageController pageController;
     if (pageController.hasClients && pageController.page != null) {
       if (pageController.page! < AppConstants.images.length - 1) {
         pageController.nextPage(
-          duration: Duration(milliseconds: 800),
+          duration: Duration(milliseconds: 1),
           curve: Curves.easeInOut,
         );
       }
