@@ -3,19 +3,429 @@
     "description": "Varanasi is known for its iconic ghats, where spirituality meets the Ganges. Each ghat has a unique story and significance.",
     "ghats": [
       {
-        "name": "Dashashwamedh Ghat",
-        "image": "https://plus.unsplash.com/premium_photo-1691031428504-3193e60bc022?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dmFyYW5hc2klMjB0ZW1wbGV8ZW58MHx8MHx8fDA%3D",
-        "description": "Dashaswamedh is a famous place on the banks of Ganga in Varanasi which has religious and historical importance. According to Kashikhand, Brahma , sent by Shiva , came to Kashi and performed ten Ashwamedha Yagyas here . According to Shivrahasya, earlier there was Rudrasarovar here, but after the journey of Ganga, its boundaries were formed by Gangapaar in the east, Dashreshwar in the south, Agastyakund in the west and Somnath in the north. There is a temple of Prayageshwar here. According to Kashi Prasad Jaiswal , this is the land where the Bharshiv Rajbhar kings performed ten Ashwamedha Yagyas. In 1929, many Yagya Kunds were found during excavation below the temple of Rani Putiya. It is mandatory to take a bath here on Tritirthi."
+        "name": "Assi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2877.jpg",
+        "description": "The Assi Ghat is the southernmost ghat in Varanasi. It is one of the biggest ghats in Varanasi.[4] The Assi and Ganges rivers converge at Assi Ghat.[5] To most visitors in Varanasi, it is known for being a place where long-term foreign students, researchers, and tourists live. Assi Ghat is one of the ghats often visited for recreation and during festivals. Most of the people visiting the ghat on usual days are students from the nearby Banaras Hindu University. The ghat accommodates about 22,500 people.[6] During iconic Dev Deepawali festival, more than 600,000 tourists visit the ghat."
       },
       {
-        "name": "Assi Ghat",
-        "image": "https://images.unsplash.com/photo-1599831069477-b2acdc0bcb91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ4fHx8ZW58MHx8fHx8",
-        "description": "Popular among tourists and locals, Assi Ghat is a peaceful place for yoga and sunrise views."
+        "name": "Ganga Mahal Ghat (I)",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2872-2.jpg",
+        "description": "The Narayan dynasty, in 1830, constructed a palace by the river Ganga in Varanasi. The palace was called \"Ganga Mahal\" (Mahal means palace in Hindi). Since the Mahal (palace) was housed on the ghat, the ghat was named \"Ganga Mahal Ghat\". Stone steps between Assi Ghat and Ganga Mahal Ghat separates the two ghats. This palace houses the design studio of Hemang Agrawal[5] whereas the upper floors are used by the \"Indo-Swedish Study Centre\" organised by Karlstad University."
+      },
+      {
+        "name": "Riva (Rewan) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2872-5.jpg",
+        "description": "This ghat was originally known as Lala Mishir Ghat, and was named after the palace that was built by the family priest of King Ranjit of Punjab. In 1879 it was sold to Maharaja Rivan, and both the palace and the ghat were renamed to Riva. The former palace is now a hostel for students studying music at Banaras Hindu University."
+      },
+      {
+        "name": "Tulsi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4555.jpg",
+        "description": "Tulsi Ghat named after the great poet Tulsidas (1547-1622 A.D.) who wrote Ramcharitmanas, a translation of the Sanskrit epic Ramayana. Tulsidas established a monastery, Hanuman temple and Askaha immediately above the ghat. Originally the ghat was known as Lolark Ghat, named after Lolark Kund that still exists today a short distance away."
+      },
+      {
+        "name": "Bhadaini Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2870-1.jpg?strip=info&w=800",
+        "description": "Recognisable by it’s tall circular water tower, the huge pumping station here supplies water to the entire city. No bathing or spiritual rituals are performed here."
+      },
+      {
+        "name": "Janaki Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/bhadaini-ghat-and-janki-ghat.jpg",
+        "description": "Originally known as Nagamber Ghat, the ghat we see today was built in 1870 by Maharani Kunwar of Sursand (in Bihar). Janaki is another name for Sita, Ram’s wife."
+      },
+      {
+        "name": "Anandamayi (Mata Anandami) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/bhadaini-ghat-and-janki-ghat.jpg",
+        "description": "Anandamayi means ‘bliss permeated’, and is the name of a famous woman saint who built an ashram for girls above the ghat. She purchased the ghat from the British in 1944, when it was known as Imalia Ghat. Anandamayi was famous for her ability to heal all kinds of mental and physical ailments, and had the former prime minister Indira Ghandi as one of her followers."
+      },
+      {
+        "name": "Anandamayi (Mata Anandami) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4577.jpg",
+        "description": "Anandamayi means ‘bliss permeated’, and is the name of a famous woman saint who built an ashram for girls above the ghat. She purchased the ghat from the British in 1944, when it was known as Imalia Ghat. Anandamayi was famous for her ability to heal all kinds of mental and physical ailments, and had the former prime minister Indira Ghandi as one of her followers."
+      },
+      {
+        "name": "Vachcharaj Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4577.jpg",
+        "description": "Named after a Jain banker who significantly contributed towards establishing Banaras as a center of trade, Vachcharaj Ghat was built in the late 18th century. Today most of the Jain community of Banaras live near this ghat, which is also believed to be the birthplace of Suparshvanath, the seventh Tirthankar of the Jain tradition."
+      },
+      {
+        "name": "Jain Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4576.jpg",
+        "description": "Originally this was part of Vachcharaj ghat immediately to the south but became it’s own ghat in 1931. The southern end is primarily used for bathing, the northern end is where some of the Mallaha (boatman) community live."
+      },
+      {
+        "name": "Nishadraj (Nishad) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/nishad-raj-ghat.jpg",
+        "description": "Originally this ghat was part of Prabhu Ghat immediately to the north until it was split in the early 20th century. The Ghat is named after the mythical chief of the boatmen who helped Ram, Sita and Lakshman cross the river Sarayu in the Ramayana. Today a large number of fishermen and boatmen can be seen here with their small boats and fishing nets, who adopted Nishadraj as their ancestrial deity."
+      },
+      {
+        "name": "Prabhu Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2866-3.jpg",
+        "description": "Built in the early 20th century, Prabhu Ghat is named after Maharaja Prabhu Narayan Singh, who ruled Banaras from 1889 to 1931. A popular place for washing clothes, many boatmen families also live here."
+      },
+      {
+        "name": "Panchkota Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4578.jpg",
+        "description": "Panchkota Ghat was constructed by the King of Panchakola (Bengal) in the late 1800s. A series of thin stairs from the ghat lead to palatial building where two temples are situated."
+      },
+      {
+        "name": "Chet Singh Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2862.jpg",
+        "description": "This ghat is dominated by the imposing palace named after Maharaja Chet Singh, the illegitimate son of the first Maharaja of Banaras, Balwant Singh. Chet Singh managed to secure his succession by over Mahip Narayan Singh by bribing the Nawab of Awadh. Governor General Warren Hastings succeeded Chet Singh, resulting in a fierce battle here in 1781. Whilst the fighting ensued outside the palace, Chet Singh made his escape by climbing out of a window and lowering himself down using a makeshift rope of unraveled turbans tied together. The ghat was originally known as Khirki Ghat, and was renovated by the State Government in 1958."
+      },
+      {
+        "name": "Niranjani Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2862.jpg",
+        "description": "Originally part of Chet Singh Ghat, a Niranjani Akhara was established here in 1897."
+      },
+      {
+        "name": "Maha Nirvani Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2853.jpg",
+        "description": "Named after Mahanirvani sect of Naga Saints, Acharya Kapil Muni of Sankhya philosophy fame lived here during the 7th century A.D. This ghat is believed to be where Lord Buddha once bathed, and nearby is Mother Teresa’s former home."
+      },
+      {
+        "name": "Shivala Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4593.jpg",
+        "description": "Shivala means ‘abode of Shiva’, there’s a Shiva temple overlooking the ghat. The ghat is dominated by a colossal building constructed by the Nepali King Sanjay Vikram Shah. This area is populated by a large south Indian community that came to Banaras over the last two centuries for business and religious purposes."
+      },
+      {
+        "name": "Gularia Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4589.jpg",
+        "description": "One of the smallest ghats on the great Ganga, it is named after a huge Gular tree that was once here."
+      },
+      {
+        "name": "Dandi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4594-1.jpg",
+        "description": "Renovated by Lalooji Agarwal, this ghat is named after the Dandi ascetics who are known for carrying a stick in their hand. They have their own monastery nearby."
+      },
+      {
+        "name": "Hanuman Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4594-1.jpg",
+        "description": "Formally known as Ramesvaram Ghat, Hanuman Ghat is named after the temple here that was built in the 18th century by the great poet Tulsidas. The ghat is also known for the temple of Ruru, the dog form of Bhairav."
+      },
+      {
+        "name": "Prachina (Old Hanuman) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4594-1.jpg",
+        "description": "This Ghat s known as the birthplace of saint Vallabha (1479-1531 A.D.), who laid the philosophical foundations for a great resurgence of Krishna bhakti. The temple of Rama consists of five Shiva Lingams named after Rama (Ramesvara), his two brothers (Laksmansevara and Bharatsvarar), his wife (Sitesvara) and his monkey-servant (Hanumadisvara)."
+      },
+      {
+        "name": "Karnataka State Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/karnataka-state-ghat-1.jpg",
+        "description": "Built in 1910 by the southern state of Mysore (now Karnataka), the Juna order of ascetics have a monastery and akhara here. There is also a guesthouse run by the government of Karnataka which is open to all but used mostly by visitors from the state."
+      },
+      {
+        "name": "Harishchandra Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2846.jpg",
+        "description": "Sometimes known as Adi Manikarnika (the original Manikarnika), this is one of two cremation ghats of the city which some believe is also the oldest. It is named after a legendary king who once worked the cremation grounds in Kashi."
+      },
+      {
+        "name": "Lali Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2846.jpg",
+        "description": "Built in 1778 by the Raja of Banaras, this small ghat is dominated by washermen."
+      },
+      {
+        "name": "Vijayanagaram Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4608.jpg",
+        "description": "Renovated in 1890 by the Vijayanagaram State of South India, the ghat is overlooked by the Svami Karapatri Asrama and hasshrines of Nilakantha and Nispapesvara."
+      },
+      {
+        "name": "Kedar Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2840.jpg",
+        "description": "Kedar Ghat features heavily in the Kedara Khanda of the Skanda Purana, and is home to the Kedareshvara Linga, one of the fourteen most important lingas as designated by the ancient texts. The original temple of Kedar is located in the Himalayas on the banks of the great Ganga, the Puranic texts describe how Shiva established the linga there before creating this one in Kashi. Some scholars believe the origins of this temple may date back further than the original Vishwanath Temple in the city."
+      },
+      {
+        "name": "Chauki (Coawki) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2830.jpg",
+        "description": "Built in 1790 and also known as the Buddhist Ghat, it is famous for the huge pipala tree (ficus religiosa) at the top of the steps which shelters a vast array of stone nagas. Close to this tree is the shrine of Rukmangesvara and a little distance away lies Naga Kupa (or “Snake Well”). Due to the predominance of washermen community residing near this ghat, the platforms, iron-railing, and even the stepped embankments are used for drying clothes."
+      },
+      {
+        "name": "Ksemesvara (Somesvara) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4626.jpg",
+        "description": "Previously known as Nala Ghat, the ghat we see today was built in the early 18th century. Followers of Kumarasvami built a monastery here in 1962, and also created shrines of Kesemesvara and Ksemaka Gana. Today the neighbourhood is dominated by Bengali residents."
+      },
+      {
+        "name": "Manasarovara Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2827.jpg",
+        "description": "Originally built by Raja Man Singh of Amber in 1585 and renovated in 1805, this ghat is named after the sacred Himalayan lake in Tibet, Manasarovar."
+      },
+      {
+        "name": "Narada Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/narada-ghat.jpg",
+        "description": "Originally known as Kuvai Ghat, Narada ghat is named after the sage best known for the one-stringed Ektara instrument he is always depicted with tucked under his arm. The ghat was constructed by Dattatreya Svami, a monastery chief, in 1788."
+      },
+      {
+        "name": "Raja Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/raja-1.jpg",
+        "description": "Formerly known as Amrita Rao Ghat, this ghat was built by Maratha chief Gajirao Balaji in 1720. It was slowly rebuilt with stone slabs between 1780 and 1807. The ghat today is still part of the Amritrao Peshwa Annapurna Trust."
+      },
+      {
+        "name": "Pande (Pandey) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2883.jpg",
+        "description": "This ghat was named after the famous wrestler of Banaras, Babua Pande, who established an akhara above the steps here."
+      },
+      {
+        "name": "Sarvesvara Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2826.jpg",
+        "description": "This small ghat was erected under the patronage of Mathura Pandey in late 18th century."
+      },
+      {
+        "name": "Digpatia Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2814.jpg",
+        "description": "The stately palace fronting this ghat, now known as Kashi Ashram, was built in 1830 by the king of Digpatia in Bengal."
+      },
+      {
+        "name": "Chausathi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/chausath-yogini-temple-varanasi.jpg",
+        "description": "This ghat is named after the temple of 64 goddesses that stands above it, and was shelter to the great Sanskrit scholar, Madhusudana Sarsvati (1540-1623). The temple was renovated by the king of Udaipur (Rajasthan) in 1670."
+      },
+      {
+        "name": "Rana Mahal Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2806rana-mahal.jpg",
+        "description": "Forming part of the northern extension to Chausathi Ghat, Rana Mahal Ghat was also built by the king of Udaipur (Rajasthan) in 1670. At the top of the ghat is temple a of Vakratunda Vinayaka."
+      },
+      {
+        "name": "Darbhanga Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5328.jpg",
+        "description": "This ghat is dominated by Darbhanga Palace, an imposing structure built by the king of Darbhanga (Bihar) in 1915 along with a nearby Shiva temple. At the top is a shrine of Kukutesvara."
+      },
+      {
+        "name": "Munsi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_2807.jpg",
+        "description": "Munsi Ghat was built by Sridhar Narayan Munsi, a finance minister of Nagpur, in 1912. It was an extended part of Darbhanga Ghat which was named in his honour after his death in 1924."
+      },
+      {
+        "name": "Ahilyabai Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5501.jpg",
+        "description": "Formally known as Kevelyagiri Ghat, this ghat was greatly renovated by queen Ahilyabai Holkar of Indore in 1778. She is responsible for building several temples in Banaras, including the Amethy Temple on Manikarnika Ghat, and the famous Vishwanath Temple. This was the first ghat to be renamed after a patron of the city."
+      },
+      {
+        "name": "Sitala Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5325.jpg",
+        "description": "Renovated by Narayana Diksit in 1740, Sitala Ghat is a northern extension of Dashashwamdh Ghat, and named after the famous Sitala Temple here."
+      },
+      {
+        "name": "Dashashwamdh Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/04/cover-ksp_3167-2.jpg",
+        "description": "Centrally located along the string of ghats fronting the great Ganga, Dashashwamdh Ghat is probably the busiest of all the ghats and is often referred to by tourists as “the main ghat”. According to the myth related to Divodasa, Lord Brahma performed the ten-horse sacrifice (dasa-asvamedha) at this site. Priests sit under bamboo umbrellas conducting various rituals and rites for pilgrims during the daytime, and in the evening the daily aarti ritual is performed here."
+      },
+      {
+        "name": "Prayag Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5342.jpg",
+        "description": "Dividing Dashashwamdh Ghat, Prayag Ghat represents Allahabad, another holy city 80 miles west of Banaras at the confluence of the Ganga, Yamuna and Saraswati rivers. It is commonly believed that performing rituals and taking sacred bath here provide exactly the same religious merit as those at Prayaga. The ghat was renovated by the queen of Digpatia state (West Bengal) in the 19th century."
+      },
+      {
+        "name": "Rajendra Prasad Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5343.jpg",
+        "description": "Still considered an extension of Dashashwamdh Ghat, it was once known as Ghoda Ghat (Horse Ghat) due to a stone statue of a horse that once stood here recognising the ten horse sacrifice. The statue was removed in the late 19th century and relocated to Sankatmochana temple. In 1979 the ghat was renamed in honour of the first president of India, who held the position from 1950 to 1962."
+      },
+      {
+        "name": "Man Mandir Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5346-1.jpg",
+        "description": "Dominated by the Man Mandir Palace with the astonomical observatory built on the roof, this ghat was formally known as Somesvara Ghat until the Rajput king of Amber, Man Singh, built his palace here in 1585."
+      },
+      {
+        "name": "Tripurabhairavi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5466.jpg",
+        "description": "This ghat is named after the Tripura Bhairavi Shrine, a female partner of Tripuresvara whose image also exists there. The ghat was renovated by the king of Banaras in the late 18th century."
+      },
+      {
+        "name": "Mira Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5348.jpg",
+        "description": "This ghat represents two old sites of Jarasandhesvara and Vrdhaditya, which were converted by Mira Rustam Ali in 1735. He was a popular tax collector in the city who took part in many of the festivals of Banaras. His name still appears in some seasonal folk songs during times such as Holi or Chaiti. The temple of Dharmesa is associated to the myth of Yama’s (Lord of Death) power over the fate of the dead everywhere on the earth, except in Kashi. A local Brahmin, Svami Karapatri-Ji, built a “new Vishwanath Temple” here in 1956 for the low caste community."
+      },
+      {
+        "name": "Phuta (Naya) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5349.jpg",
+        "description": "Previously known as Yajnesvara Ghat, Phuta means “broken” but I’m not sure why the ghat has adopted this name. The site was renovated by Svami Mahesvarananda in mid 19th century."
+      },
+      {
+        "name": "Nepali Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5350.jpg",
+        "description": "Named after the distinctive Nepalese Temple that was built by the kings of the Gorkha dynasty in 1902, the whole area is dominated by Nepalese residents. E.B Havell described the ghat in 1841"
+      },
+      {
+        "name": "Lalita Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4059.jpg",
+        "description": "Famous for two shrines, one dedicated to Vishnu called Ganga Kashev, and the other to Ganga, called Bhagirathi Devi. There is also a shrine of Lalita Devi, it is believed that a glimpse of Lalita Devi brings the same reward as circumambulating the entire world."
+      },
+      {
+        "name": "Bauli Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4059.jpg",
+        "description": "Also known as Umaragiri and Amroha Ghat, the original name of this ghat was Raja Rajesvari Ghat. It is thought to have been built in the early 19th century by Babu Kasheva Deva, a rich merchant of Banaras."
+      },
+      {
+        "name": "Jalashayi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5360.jpg",
+        "description": "Jalashayi means “putting dead body into water”, a ritual that is performed prior to the corpse being placed on a log pyre and cremated. This may imply that the ghat once was used for this specific purpose, prior to the cremation occurring at the nearby Manikarnika Ghat. The ghat and associated buildings were constructed in the mid 19th century."
+      },
+      {
+        "name": "Khirki Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5360.jpg",
+        "description": "Khirki means “the windows”, which perhaps indicates a place from which cremations on Manikarnika Ghat were witnessed by the funeral party and attendants. Five sati shrines can be seen here, together with a rest house for pilgrims that was built in 1940 by Baldeo Dasa Birla."
       },
       {
         "name": "Manikarnika Ghat",
-        "image": "https://images.unsplash.com/photo-1599831069477-b2acdc0bcb91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ4fHx8ZW58MHx8fHx8",
-        "description": "One of the most sacred ghats, believed to be a gateway to Moksha."
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5443.jpg",
+        "description": "The most famous ghat in Banaras, where cremations have continuously taken place for probably thousands of years. The first ghat to be renovated in stone, inscriptions from the Gupta period make references to this ghat in the 4th century A.D. You can read a lot more about Manikarnika in my separate blog post about this ghat."
+      },
+      {
+        "name": "Bajirio Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4096.jpg",
+        "description": "This ghat and adjacent palace was built by Bajiriao Pesava in 1735. Close by is one of the most photographed temples in Banaras, the famous leaning Ratneshwar Mahadev Temple."
+      },
+      {
+        "name": "Scindia Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5426.jpg",
+        "description": "Formally known as Viresvara Ghat, named after the temple that overlooks the great Ganga here, this ghat was constructed by Ahilabai Holker of Indore in 1780. It has been subjected to a number of repairs and remodelling over the centuries, in 1829 by queen Baijabai, and in 1937 by Daulatarao Scindhia."
+      },
+      {
+        "name": "Sankata Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4102.jpg",
+        "description": "Originally known as Yameshvara Ghat after the name of a nearby temple, Sankaha Ghat was built by the king of Baroda (Gujarat) in the late 18th century. In 1825 Beniram Pandit’s widow, known as “Panditain”, and her nephews renovated this ghat and built the temple of Sankata Devi."
+      },
+      {
+        "name": "Ganga Mahal Ghat (2)",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5414.jpg",
+        "description": "The second ghat of the same name in Banaras, the beautiful palace contains a temple dedicated to Krishna and Radha which was built in 1865 by queen Tarabai Raje Shinde, a Scindhia ruler from Gwalior. The ghat was constructed in the early 19th century by a king of Gwalior, and was later renovated by Govinda Bali Kiratankara."
+      },
+      {
+        "name": "Bhonsale Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5411.jpg",
+        "description": "One of the most beautiful structures to front the great Ganga in Banaras, Bhonsale Palace was built by the Maratha rulers of Nagpur in the late 18th century. The palace has a spectacular combination of grace and might, rising to a breathtaking height from the ghat. The design of this palace appears to draw inspiration from the Chet Singh Palace to the south, with the palace roof containing two ornate temples dedicated to Shiva and Vishnu. Two important shrines near to the palace are of Yamesvara and Yamaditya."
+      },
+      {
+        "name": "Naya Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5411.jpg",
+        "description": "Built by the Maratha king Peshwa Amrit Roa, who dedicated this ghat to Ganesh. Naya means ‘new’, and this ghat was one of the main docks of the city. On Prinsep’s map of 1822 this ghat was called Gularia Ghat. Some renovations occurred here in 1960."
+      },
+      {
+        "name": "Ganesha Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4116.jpg",
+        "description": "Considered an extension to Naya Ghat, it was formally known as Agisvara Ghat but was renamed after the Ganesha temple here. The ghat was renovated between 1761 and 1772 by Madhorao Pesava."
+      },
+      {
+        "name": "Mehta Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4116.jpg",
+        "description": "Essentially an extension of Naya and Ganesha Ghat, Metha Ghat became it’s own entity in 1962 and is named after the nearby V.S.Mehta hospital."
+      },
+      {
+        "name": "Ram Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4965.jpg",
+        "description": "One of the most popular ghats for bathers, it is named after the small Ram temple to be found here. The famous Sanga Veda School is located near to this ghat."
+      },
+      {
+        "name": "Jatara Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/jatara.jpg",
+        "description": "Jatara Ghat was built by Madhorao Pesava in 1766 as part of the overall renovating of the ghats along this stretch of the great Ganga."
+      },
+      {
+        "name": "Raja Gwalior Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/jatara.jpg",
+        "description": "Also built by Madhorao Pesava in 1766, often Jatara and Raja Gwalior Ghat are considered as just one entity as there is no visible architectural division."
+      },
+      {
+        "name": "Mangala Gauri (Bala or Lakshmanbala) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/jatara.jpg",
+        "description": "Built by Bajirao Peshwa in 1735, the ghat was later renovated by Lakmana Bala of Gwalior in 1807, which has led to a confusing variety of names for this ghat. Above the ghat is a partially collapsed temple which originally belonged to the Mathara Peshwas but was passed on to the Schindia rulers of Gwalior."
+      },
+      {
+        "name": "Venimadhava (Bindu Madhava) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/jatara.jpg",
+        "description": "Widely considered the southern part of Panchganga Ghat, Venimadhava Ghat takes it name from the temple here, the origins of which may date back to the 10th century. The Bindu Madhava temple was in ruins by 1496 and was rebuilt by the Maharaja of Amber in 1585. The temple was subsequently demolished by Aurangzeb, who built the Alamgir Mosque on the ruined foundations. Bindu Madhava was re-established a short distance away from the mosque."
+      },
+      {
+        "name": "Panchganga Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4114.jpg",
+        "description": "One of the most sacred sites in Banaras, Panchganga Ghat is believed to be the meeting point of five rivers/streams; the Ganga, Yamuna, Sarasvati, Kirana and Dhupapapa – although today only the great Ganga is visible. The stone ghat was originally built by Raghunatha Tandan, the finance secretary of the mughal king Akbar, and was renovated by Bajirao Pesava in 1735, and Sripatirao Pesava in 1775."
+      },
+      {
+        "name": "Durga Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4120-3.jpg",
+        "description": "Prior to his death in the 1750s, Narayana Diksit, a guru of Pesavas, purchased land from local resident fishermen and built two ghats: Durga and the succeeding one, Brahma Ghat. Renovations occurred prior to 1800 by Nana Phadanavisa, who built a mansion overlooking the ghat known as Phadanavisa Wada. Also known as Nana Fadnavis, Nana Phadanavisa was once Prime Minister in Pune and is attributed to a number of building projects, most notably the extensive renovations at Lohagad Fort in the Deccan."
+      },
+      {
+        "name": "Brahma Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4120-3.jpg",
+        "description": "Built at the same time as Durga Ghat to the south, Kasi Matha Sansthana monastery is located at the top of the ghat"
+      },
+      {
+        "name": " Bundi Parakota Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4120-3.jpg",
+        "description": "Originally known as Raja Mandira Ghat, this ghat was built by the king of Bundi, Raja Surajana Hada, in 1580. This ghat is now famous for the many large scale murals that have been painted on the ghat walls, which simply look amazing from a short distance away."
+      },
+      {
+        "name": "Shitala Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/sheetla-ghat-1.jpg",
+        "description": "A contnuation of Bundi Parakota Ghat, this ghat was also constructed by Raja Surajana Hada in 1580. The ghat is named after the goddess of smallpox, whose main temple can be seen on Dashashwamedh Ghat."
+      },
+      {
+        "name": " Lala Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4215.jpg",
+        "description": "Lala Ghat was constructed by a rich merchant of Banaras in the early 1800s and is named after him. A small sub-ghat was built in 1935 by Baldeo Das Birla, and is known as Gopi Givinda Ghat. He also constructed a rest house for pilgrims here."
+      },
+      {
+        "name": "Hanumangarhi Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4215.jpg",
+        "description": "Representing the famous site of Hanumangarhi in Ayodya, the birthplace of Rama, this ghat is thought to have been founded in the late 19th century. Here can be found a wrestling site (Ganga Akhara) and a sati stone."
+      },
+      {
+        "name": "Gai (Gaya) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4222.jpg",
+        "description": "In the 12th century this Ghat was considered the southern limit of Banaras, as the origins of Kashi actually started further north at Rajghat, where the archaeological remains can still be seen today. Gai Ghat was renovated by Balabai Shitole of Gwalior in the early 19th century."
+      },
+      {
+        "name": "Badri Narayan Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/badri-narayan-ghat-view-from-ganges.jpg",
+        "description": "This ghat was formerly known as Mahatha/Matha ghat, Balabai of Gwalior renovated it in the early 19th century."
+      },
+      {
+        "name": "Trilochan Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4236.jpg",
+        "description": "Named after the temple of Trilochan, the three-eyed Shiva, this ghat was a famous site for rituals and bathing during the Gahadavala rule in the 12th century. Renovations occurred prior to 1750 by Narayana Dixsit, and in 1795 by Nathu Bala of Pune (Maharastra)."
+      },
+      {
+        "name": "Gola Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4236.jpg",
+        "description": "Named after the large number of granaries that once existed here, Gola Ghat was once used as a ferry point going back as far as the 12th century. It’s importance diminished rapidly after the construction of Malviya Bridge in 1887."
+      },
+      {
+        "name": "Nandikeshvara (Nandu) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4236.jpg",
+        "description": "Built in the early 20th century by residents of the local neighbourhood, there is also an Akhara of the same name here."
+      },
+      {
+        "name": "Sakka Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/sakka-ghat.jpg",
+        "description": "First documented in the late 18th century, the ghat is mostly occupied by washermen."
+      },
+      {
+        "name": "Telianala Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4239.jpg",
+        "description": "Also first documented in the late 18th century, this ghat is most famous for Hiranyagarbha, an ancient sacred site. The ghat is named after the oilpressing caste (Teli) that settled here centuries ago."
+      },
+      {
+        "name": "Naya (Phuta) Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4239.jpg",
+        "description": "Originally known as Phuta Ghat and once a sacred waterfront, this whole area was seemingly abandoned in the 18th century and was renamed after renovations. Further renovations took place in 1940 by Narsingh Jaipala Chainput-Bhabhua of Bihar."
+      },
+      {
+        "name": "Prahlad Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4239.jpg",
+        "description": "Named after Prahlad, a character in ancient texts celebrated for his devotion to Vishnu, references to this ghat exist in Ghadavala inscriptions from the 12th century. The ghat was once much larger, but was divided in 1937 with the construction of a new Nisada Ghat in the centre. There are a number of shrines to be found here. To the south are shrines of Prahaladesvara, Prahalada Kesava, Vidara Narsimha, and Varada and Picindala Vinayakas. To the north are shrines of Mahisasura Tirtha, Svaralingesvara, Yajna Varaha and Sivaduti Devi."
+      },
+      {
+        "name": "Rani Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4240-2.jpg",
+        "description": "Rani Ghat holds no religious importance and is one of the least popular ghats in Banaras. In 1937 Muniya Sahiba, a queen of Lucknow, built a grand house on the ghat and gradually people started calling it Rani Ghat. In 1988 the government renovated the ghat which is now slowly increasing in popularity."
+      },
+      {
+        "name": "Raja Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_4304.jpg",
+        "description": "Prior to the opening of Malviya Bridge in 1887, Raja Ghat was the most famous and busy ferry ghat in Banaras. Raja Ghat is mentioned numerous times in 11th century Gahadava inscriptions, although this whole area dates back much further than this. Beyond Malviya Bridge, named after the founder of Banaras Hindu University, one can still visit the archaeological remains of early Kashi, possibly the first city to be built here on the banks of the great Ganga."
+      },
+      {
+        "name": "Adi Keshava Ghat",
+        "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/adi-keshava-ghat-varanasi.jpg",
+        "description": "Thought to be the oldest and original site of Lord Vishnu and sometimes referred to as Vedesvara Ghat, this was according to inscriptions the most favourite holy site of the Gahadavala kings. Now very much enjoying a more rural setting, you can read more about this ghat in my blog post on Adi Keshav Temple."
       }
     ]
   }

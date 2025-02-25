@@ -9,10 +9,10 @@ class PlaceDetails extends StatefulWidget {
   const PlaceDetails({super.key, required this.ghatName});
 
   @override
-  _PlaceDetailsPageState createState() => _PlaceDetailsPageState();
+  PlaceDetailsPageState createState() => PlaceDetailsPageState();
 }
 
-class _PlaceDetailsPageState extends State<PlaceDetails> {
+class PlaceDetailsPageState extends State<PlaceDetails> {
   late Future<List<Ghat>> _ghats;
 
   @override
@@ -36,9 +36,6 @@ class _PlaceDetailsPageState extends State<PlaceDetails> {
             final ghats = snapshot.data!;
             final ghat = ghats.firstWhere(
               (g) => g.name.toLowerCase() == widget.ghatName.toLowerCase(),
-            );
-            debugPrint(
-              "Selected Ghat: ${ghat.name}, Image: ${ghat.image}, Description: ${ghat.description}",
             );
             return SingleChildScrollView(
               child: Description(

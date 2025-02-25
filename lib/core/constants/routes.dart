@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:varanasi_guide/ui/screens/description/place_details.dart';
 import 'package:varanasi_guide/ui/screens/guideList/ghat_list_page.dart';
-import 'package:varanasi_guide/ui/screens/home_page.dart';
 import 'package:varanasi_guide/ui/screens/main_page.dart';
 
 class AppRoutes {

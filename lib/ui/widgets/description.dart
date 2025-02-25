@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:varanasi_guide/theme/colors/app_color.dart';
 import 'package:varanasi_guide/theme/text_themes/text_theme.dart';
 
 class Description extends StatelessWidget {
@@ -35,7 +34,11 @@ class Description extends StatelessWidget {
             ],
           ),
           SizedBox(height: 20),
-          Text(description, style: textTheme.bodySmall),
+          Text(
+            description,
+            style: textTheme.bodySmall,
+            textAlign: TextAlign.justify,
+          ),
         ],
       ),
     );

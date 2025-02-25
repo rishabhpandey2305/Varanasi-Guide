@@ -4,11 +4,13 @@ import 'package:varanasi_guide/services/json_loader.dart';
 import 'package:varanasi_guide/ui/widgets/card.dart';
 
 class GhatListPage extends StatefulWidget {
+  const GhatListPage({super.key});
+
   @override
-  _GhatListPageState createState() => _GhatListPageState();
+  GhatListPageState createState() => GhatListPageState();
 }
 
-class _GhatListPageState extends State<GhatListPage> {
+class GhatListPageState extends State<GhatListPage> {
   late Future<List<Ghat>> _ghats;
 
   @override
